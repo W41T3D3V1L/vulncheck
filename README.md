@@ -53,13 +53,13 @@ At the end of every scan, a detailed **Markdown report** is generated that you c
 **Install globally via npm:**
 
 ```bash
-npm install -g vulncheck-ai
+npm install -g vulncheck
 ```
 
 **Or run without installing:**
 
 ```bash
-npx vulncheck-ai --repo ./my-project
+npx vulncheck --repo ./my-project
 ```
 
 **Requirements:**
