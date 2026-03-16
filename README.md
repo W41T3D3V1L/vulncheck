@@ -283,6 +283,6 @@ MIT © [M33N4N](https://github.com/whitedevil)
 
 <div align="center">
 
-Built with ❤️ · Powered by [Google Gemini](https://aistudio.google.com) · Made for developers who care about security
+Built with ❤️ · Powered by M33N4N · Made for developers who care about security
 
 </div>
