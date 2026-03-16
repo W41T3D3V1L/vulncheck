@@ -1,0 +1,28 @@
+{
+  "name": "vulncheck",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "vulncheck": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js --repo . --output report.md"
+  },
+  "keywords": ["security", "vulnerability", "scanner", "cli", "gemini", "ai", "sast"],
+  "author": "Gollavilli Dhanush Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "cli-progress": "^3.12.0",
+    "commander": "^14.0.3",
+    "figlet": "^1.11.0",
+    "glob": "^13.0.6",
+    "gradient-string": "^3.0.0",
+    "ora": "^9.3.0"
+  }
+}
