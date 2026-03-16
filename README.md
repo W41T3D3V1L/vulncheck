@@ -9,7 +9,7 @@
   ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-# vulncheck-ai
+# vulncheck
 
 **AI-powered security vulnerability scanner for your entire codebase.**  
 Find bugs, detect CVEs, and generate audit reports — all from one CLI command.
