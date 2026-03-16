@@ -1,6 +1,6 @@
 {
   "name": "vulncheck",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "",
   "type": "module",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
     "dev": "node src/index.js --repo . --output report.md"
   },
   "keywords": ["security", "vulnerability", "scanner", "cli", "gemini", "ai", "sast"],
-  "author": "Gollavilli Dhanush Kumar",
+  "author": "M33N4N",
   "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
