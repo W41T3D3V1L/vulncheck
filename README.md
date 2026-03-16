@@ -14,8 +14,8 @@
 **AI-powered security vulnerability scanner for your entire codebase.**  
 Find bugs, detect CVEs, and generate audit reports — all from one CLI command.
 
-[![npm version](https://img.shields.io/npm/v/vulncheck-ai?color=red&style=flat-square)](https://www.npmjs.com/package/vulncheck-ai)
-[![npm downloads](https://img.shields.io/npm/dm/vulncheck-ai?color=orange&style=flat-square)](https://www.npmjs.com/package/vulncheck-ai)
+[![npm version](https://img.shields.io/npm/v/vulncheck-ai?color=red&style=flat-square)](https://www.npmjs.com/package/vulncheck)
+[![npm downloads](https://img.shields.io/npm/dm/vulncheck-ai?color=orange&style=flat-square)](https://www.npmjs.com/package/vulncheck)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?style=flat-square)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-blue?style=flat-square)](https://aistudio.google.com)
